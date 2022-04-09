@@ -8,5 +8,5 @@
 ### 2. Create a .env file and attach keys
 ### 3. npx hardhat test
 
-### Article: 
+### Article: 
 ### Post mortem: https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d
